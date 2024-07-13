@@ -1,4 +1,4 @@
-![Student](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/449330417_3465529060412151_3105984295109748272_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeGVrGVje212i2aMSYkK83mhFGpHSdI9ycsUakdJ0j3Jy_uMZKUrm1n2B676vTTXR_wajslbT77GigzYryRbjX8N&_nc_ohc=1Pi0CUawcsYQ7kNvgHOjUcp&_nc_ht=scontent.fdac24-5.fna&oh=00_AYA9HC6gBvQ561yK_aZgRvuf96v4RG33FwOeFwEZBhQWrw&oe=66980048)
+
 ### Hi there 👋, I'm Rifat
 #### Student
 
