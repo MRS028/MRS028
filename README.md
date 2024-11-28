@@ -4,7 +4,7 @@
 
 I aim to be a leader who not only dreams big but also works diligently to turn those dreams into reality.I am committed to becoming a developer who can change the world through coding, making technology a force for good in society.
 
-Skills: C/C++/Python/ JS / HTML / CSS
+Skills: C/C++/Python/ JS / HTML / CSS / React / Node.js /
 
 - 🌱 I’m currently learning web development 
 - 👯 I’m looking to collaborate on github 
