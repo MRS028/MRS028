@@ -26,7 +26,7 @@ I am a **Computer Science and Engineering (CSE)** student with a vision to innov
 
 ## 📫 Connect With Me  
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'> **GitHub**](https://github.com/MRS028)  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'> **LinkedIn**](https://www.linkedin.com/in/sheikh-rifat-426ab0294/)  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'> **LinkedIn**](https://www.linkedin.com/in/md-rifat-sheikh-426ab0294)  
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='30'> **Facebook**](https://www.facebook.com/sheikh.rifat.28)  
 
 ---
