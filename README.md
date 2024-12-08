@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sheikh Rifat  
+# Hi there 👋, I'm Rifat  
 ### Aspiring Developer | CSE Student | Innovator  
 
 I am a **Computer Science and Engineering (CSE)** student with a vision to innovate and make a positive impact through technology. My dream is to become a leader who inspires and brings change by building software solutions that make the world a better place.
