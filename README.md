@@ -10,7 +10,7 @@ I am a **Computer Science and Engineering (CSE)** student with a vision to innov
 
 - 🌱 **Currently Learning:**  
   - Advanced **Web Development** (MERN Stack)  
-  - **Backend:** Focused on mastering **Node.js** , ***Express.js* and **MongoDB**  
+  - **Backend:** Focused on mastering **Node.js**, **Express.js**, and **MongoDB**  
 - 💻 **Technical Skills:**  
   - **Languages:**  
     - ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)  
@@ -23,6 +23,7 @@ I am a **Computer Science and Engineering (CSE)** student with a vision to innov
     - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
     - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
     - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat)  
+    - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
     - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
 
 - 🎯 **Goals:**  
@@ -55,6 +56,7 @@ I am a **Computer Science and Engineering (CSE)** student with a vision to innov
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
 
 ---
