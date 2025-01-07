@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Rifat**
 
-![Profile Banner]([https://via.placeholder.com](https://i.ibb.co.com/x3Zd2yZ/github.gif)/1200x300.png?text=Welcome+to+Rifat's+GitHub+Profile)
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Rifat's+GitHub+Profile)
 
 ### 🚀 **Aspiring MERN Stack Developer | CSE Student | Innovator**
 
@@ -63,6 +63,11 @@ I am a **Computer Science and Engineering (CSE)** student with a vision to innov
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node-dot-js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+---
+
+## 🌈 Featured Image/GIF
+![Full Stack Development](https://i.ibb.co/LC1C1vX/fullstack.jpg)
 
 ---
 
