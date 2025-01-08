@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://i.ibb.co.com/ctnmymv/githubbg.png" alt="Banner" style="width:100%; border-radius:10px;" />
+  <img src="https://i.ibb.co.com/ZxtHY7k/gitbg.png" alt="Banner" style="width:100%; border-radius:10px;" />
   <h1>👋 Hi, I'm <b>Md. Rifat Sheikh</b></h1>
   <h3>🚀 Aspiring MERN Stack Developer | CSE Student | Innovator</h3>
   <p>
