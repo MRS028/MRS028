@@ -55,7 +55,7 @@ I am a passionate **Computer Science and Engineering (CSE) student** with a stro
 ## 📊 GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical" alt="GitHub Stats" style="margin:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MRS028&theme=radical" alt="GitHub Streak" style="margin:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRS028&theme=radical" alt="GitHub Streak" style="margin:10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRS028&layout=compact&theme=radical" alt="Top Languages" style="margin:10px;">
 </div>
 
