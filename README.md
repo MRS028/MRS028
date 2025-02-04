@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/2jBHZLkg/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" alt="Banner" style="width:100%; border-radius:10px;" />
+  <img src="https://surl.li/iabevi" alt="Banner" style="width:100%; border-radius:10px;" />
 </div>
 
 # 👋 Hi, I'm **Md. Rifat Sheikh**
