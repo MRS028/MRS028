@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/2jBHZLkg/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" alt="Banner" style="width:100%; border-radius:10px;" />
 </div>
 
-## 👋 Hi, I'm **Md. Rifat Sheikh**
+# 👋 Hi, I'm **Md. Rifat Sheikh**
 ### 🚀 Aspiring MERN Stack Developer | CSE Student | Innovator
 
 ---
@@ -77,5 +77,6 @@ I am a passionate **Computer Science and Engineering (CSE) student** with a stro
 ---
 
 <div align="center">
-  🚀 Let's innovate, build, and grow together! Thanks for stopping by! ✨
+  ✨ Thank you for visiting my profile! Let's code, create, and innovate together! 🚀
 </div>
+
