@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/PZjJkxFY/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
+  <img src="[https://i.ibb.co.com/PZjJkxFY/Navy-Blue-Geometric-Technology-Linked-In-Banner.png](https://i.ibb.co.com/PZjJkxFY/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)" alt="Banner" style="width:100%; border-radius:10px;" />
   <h1>👋 Hello, I'm <b>Md. Rifat Sheikh</b></h1>
   <h3>🚀 Aspiring MERN Stack Developer | Computer Science Student | Innovator</h3>
   <p>
