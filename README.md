@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hi, I'm **Md. Rifat Sheikh**
-### 🚀 Aspiring MERN Stack Developer | CSE Student | Innovator
+### 🚀 Aspiring MERN Stack Developer | CSE Undergraduate Student | Innovator
 
 ---
 
