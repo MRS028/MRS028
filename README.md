@@ -40,7 +40,7 @@ I am a passionate **Computer Science and Engineering (CSE) student** with a stro
       <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"> -->
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
     </td>
   </tr>
@@ -50,7 +50,7 @@ I am a passionate **Computer Science and Engineering (CSE) student** with a stro
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> -->
       <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white">
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
     </td>
@@ -65,13 +65,13 @@ I am a passionate **Computer Science and Engineering (CSE) student** with a stro
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><strong>Mobile</strong></td>
-    <td>
+     <td>
       <img src="https://img.shields.io/badge/-Android_Development-3DDC84?style=flat&logo=android&logoColor=white">
       <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white">
-    </td>
-  </tr>
+    </td> -->
+<!--   </tr> --> 
   <tr>
     <td><strong>Tools & Workflow</strong></td>
     <td>
@@ -86,22 +86,44 @@ I am a passionate **Computer Science and Engineering (CSE) student** with a stro
     <td><strong>Design</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white">
-      <img src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white"> -->
+<!--       <img src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"> -->
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical" alt="GitHub Stats" style="margin:10px;">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRS028&theme=radical" alt="GitHub Streak" style="margin:10px;"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRS028&layout=compact&theme=radical" alt="Top Languages" style="margin:10px;">
-</div>
+<h2 align="center">📊 GitHub Insights</h2>
 
----
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" alt="Visitor Counter">
+</p>
+
+<p align="center">
+  <a href="https://github.com/MRS028">
+    <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRS028&theme=radical" alt="GitHub Profile Summary">
+  </a>
+  <br>
+  <a href="https://github.com/MRS028">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/MRS028">
+    <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRS028&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+  <a href="https://github.com/MRS028">
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=MRS028&theme=radical" alt="Contribution Streak">
+  </a>
+  <a href="https://github.com/MRS028">
+    <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=MRS028&theme=radical" alt="GitHub Contribution Graph">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/MRS028/MRS028/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+
 
 ## 📫 Connect With Me
 <p>
