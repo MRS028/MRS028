@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://md-rifat-sheikh.onrender.com">
-  <img src="https://i.postimg.cc/jjXjsdn5/bnnr.png" alt="Banner" style="width:100%; border-radius:10px;" />
+  <img src="https://i.ibb.co/03tDp5Z/myBanner.png" alt="Banner" style="width:100%; border-radius:10px;" />
 </div>
 
 # 👋 Hi, I'm **Md. Rifat Sheikh**
