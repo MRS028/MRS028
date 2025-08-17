@@ -1,10 +1,10 @@
 <div align="center">
    <a href="https://md-rifat-sheikh.netlify.app">
-  <img src="https://i.ibb.co/03tDp5Z/myBanner.png" alt="Banner" style="width:100%; border-radius:10px;" />
+  <img src="[https://i.ibb.co/03tDp5Z/myBanner.png](https://i.ibb.co.com/yn2F2bbC/Screenshot-2025-08-13-083548.png)" alt="Banner" style="width:100%; border-radius:10px;" />
 </div>
 
 # 👋 Hi, I'm **Md. Rifat Sheikh**
-### 🚀 Aspiring MERN Stack Developer | CSE Undergraduate Student | Innovator
+### MERN Stack Developer (Junior) | React, Node.js, Express, TypeScript | Generative & Agentic AI | AI/ML/DL Enthusiast | CSE Undergrad @SEU
 
 ---
 
