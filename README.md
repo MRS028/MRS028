@@ -5,7 +5,7 @@
 </div>
 
 # 👋 Hi, I'm **Md. Rifat Sheikh**  
-### MERN Stack Developer | TypeScript | React | Node.js | Express | AI/ML/DL Enthusiast | CSE Undergrad @ SEU  
+### MERN Stack Developer | TypeScript | React | Node.js | Express | AI/ML/DL Enthusiast | CSE Undergrad @SEU  
 
 ---
 
