@@ -109,27 +109,6 @@ I am actively learning and working on **Machine Learning and AI projects**, with
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=MRS028&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
----
-
-## 📈 Contribution Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MRS028&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🧩 GitHub Summary  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRS028&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRS028&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRS028&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRS028&theme=radical&utcOffset=6" />
-</p>
 
 ---
 
