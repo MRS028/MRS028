@@ -5,33 +5,79 @@
 </div>
 
 # 👋 Hi, I'm **Md. Rifat Sheikh**  
-### Software Engineer (MERN) | TypeScript | React | Node.js | AI/ML Enthusiast | CSE @SEU  
+### Software Engineer (MERN) | Machine Learning & AI Research Enthusiast | CSE @ SEU  
 
 ---
 
 ## 🚀 About Me  
 
-I’m a **Computer Science & Engineering undergraduate** with a strong passion for building **scalable, user-centric, and high-performance applications**. My core expertise lies in **Full-Stack Development (MERN Stack)**, with an expanding focus on **AI-powered systems, system design, and cloud-native architectures**.
+I am a **Computer Science & Engineering undergraduate** with a strong foundation in **Full-Stack Development (MERN Stack)** and a growing focus on **Machine Learning, Artificial Intelligence, and research-driven software engineering**.
 
-I enjoy turning complex problems into elegant solutions and continuously pushing myself to learn emerging technologies that shape the future of software engineering.
-
----
-
-### 🔍 Areas of Focus (2026)
-- Full-Stack Web Development (MERN + TypeScript)
-- Scalable Backend Systems & RESTful APIs
-- Cloud Computing & DevOps (AWS, Azure, CI/CD)
-- Generative AI, Agentic AI & Applied Machine Learning
-- Software Engineering Best Practices & System Design
+I am passionate about building **scalable systems**, exploring **intelligent models**, and understanding the **theory behind modern AI technologies**. My goal is to bridge **research, engineering, and real-world impact**.
 
 ---
 
-### 🎯 Goals for 2026
-- Build **production-grade, scalable applications** used by real users  
-- Contribute consistently to **open-source projects**
-- Secure **internship / junior software engineer roles**
-- Gain hands-on experience with **cloud infrastructure & DevOps**
-- Apply **AI/ML techniques** to real-world software products
+## 🧠 Core IT & Software Engineering Focus  
+
+I approach development with an **IT engineering mindset**, emphasizing performance, scalability, and maintainability.
+
+### 🔧 Focus Areas
+- **Software Engineering Principles**
+  - Clean architecture, SOLID principles
+  - Design patterns & modular systems
+  - Documentation & maintainable codebases  
+
+- **Backend & System Design**
+  - RESTful API design & optimization  
+  - Authentication, authorization & security  
+  - Database modeling & performance tuning  
+  - Scalable system architecture  
+
+- **Cloud & DevOps (Learning & Applying)**
+  - AWS & Azure fundamentals  
+  - CI/CD concepts & deployment pipelines  
+  - Environment management & monitoring  
+  - Containerization basics (Docker)
+
+---
+
+## 🤖 Machine Learning & AI (Research-Focused)
+
+I am actively learning and working on **Machine Learning and AI projects**, with a strong interest in **research-oriented development**.
+
+### 🧪 Learning & Research Areas
+- **Machine Learning Fundamentals**
+  - Supervised & Unsupervised Learning  
+  - Model evaluation, bias-variance tradeoff  
+  - Feature engineering & data preprocessing  
+
+- **Deep Learning**
+  - Neural networks & backpropagation  
+  - CNNs for computer vision  
+  - RNNs & Transformers (learning phase)
+
+- **Generative & Agentic AI**
+  - Large Language Models (LLMs)  
+  - Prompt engineering & AI pipelines  
+  - Autonomous agents & workflow automation  
+
+- **Research Skills**
+  - Reading & understanding research papers  
+  - Experiment design & result analysis  
+  - Reproducibility & ethical AI practices  
+
+---
+
+## 🔬 AI/ML Projects & Experiments  
+
+I am working on **hands-on AI/ML projects** to strengthen both engineering and research skills:
+
+- End-to-end ML pipelines (data → model → evaluation)  
+- AI-powered web applications (ML + MERN)  
+- Intelligent assistants & automation tools  
+- Experiments on real-world datasets  
+
+> 📌 *Detailed documentation and results are available in individual repositories.*
 
 ---
 
@@ -81,6 +127,7 @@ I enjoy turning complex problems into elegant solutions and continuously pushing
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white">
+      <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white">
     </td>
   </tr>
 
@@ -129,10 +176,10 @@ I enjoy turning complex problems into elegant solutions and continuously pushing
 
 ## 🌟 Vision  
 
-> *“To engineer scalable, intelligent, and impactful software solutions that empower people and create meaningful change.”*
+> *“To research, engineer, and deploy intelligent systems that combine scientific rigor with scalable real-world impact.”*
 
 ---
 
 <div align="center">
-  ✨ Thanks for visiting! Let’s **build, learn, and innovate** together 🚀  
+  ✨ Thanks for stopping by! Let’s **research, build, and innovate** together 🚀  
 </div>
