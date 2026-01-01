@@ -1,72 +1,107 @@
 <div align="center">
-  <a href="https://md-rifat-sheikh.netlify.app">
+  <a href="https://mdrifatsheikh.info">
     <img src="https://i.ibb.co.com/yn2F2bbC/Screenshot-2025-08-13-083548.png" alt="Banner" style="width:100%; border-radius:12px;" />
   </a>
 </div>
 
-# 👋 Hi, I'm **Md. Rifat Sheikh**  
-### Software Engineer (MERN) | Machine Learning & AI Research Enthusiast | CSE @ SEU  
+<h1 align="center">👋 Hi, I'm Md. Rifat Sheikh</h1>
+
+<h3 align="center">
+Software Engineer (MERN) · Machine Learning & AI Research Enthusiast · CSE @ SEU
+</h3>
 
 ---
 
-## 🚀 About Me  
+<h2 align="center">🚀 About Me</h2>
 
-I am a **Computer Science & Engineering undergraduate** with a strong foundation in **Full-Stack Development (MERN Stack)** and a growing focus on **Machine Learning, Artificial Intelligence, and research-driven software engineering**.
+<p align="center">
+I am a <strong>Computer Science & Engineering undergraduate</strong> with a strong foundation in
+<strong>Full-Stack Development (MERN Stack)</strong> and a growing specialization in
+<strong>Machine Learning, Artificial Intelligence, and research-driven software engineering</strong>.
+</p>
 
-I am passionate about building **scalable systems**, exploring **intelligent models**, and understanding the **theory behind modern AI technologies**. My goal is to bridge **research, engineering, and real-world impact**.
-
----
-
-## 🧠 Core IT & Software Engineering Focus  
-
-I approach development with an **IT engineering mindset**, emphasizing performance, scalability, and maintainability.
-
-### 🔧 Focus Areas
-- **Software Engineering Principles**
-  - Clean architecture, SOLID principles
-  - Design patterns & modular systems
-  - Documentation & maintainable codebases  
-
-- **Backend & System Design**
-  - RESTful API design & optimization  
-  - Authentication, authorization & security  
-  - Database modeling & performance tuning  
-  - Scalable system architecture  
-
-- **Cloud & DevOps (Learning & Applying)**
-  - AWS & Azure fundamentals  
-  - CI/CD concepts & deployment pipelines  
-  - Environment management & monitoring  
-  - Containerization basics (Docker)
+<p align="center">
+I am deeply interested in building <strong>scalable, maintainable systems</strong>,
+developing <strong>intelligent models</strong>, and understanding the
+<strong>theoretical foundations behind modern AI technologies</strong>.
+My long-term goal is to bridge <strong>research, engineering, and real-world impact</strong>.
+</p>
 
 ---
 
-## 🤖 Machine Learning & AI (Research-Focused)
+<h2 align="center">🧠 Core IT & Software Engineering Focus</h2>
 
-I am actively learning and working on **Machine Learning and AI projects**, with a strong interest in **research-oriented development**.
+<p align="center">
+I approach development with an <strong>IT engineering mindset</strong>, emphasizing
+<strong>performance, scalability, security, and maintainability</strong>.
+</p>
 
-### 🧪 Learning & Research Areas
-- Supervised & Unsupervised Learning  
-- Model evaluation & optimization  
-- Feature engineering & data preprocessing  
-- Neural Networks, CNNs, RNNs, Transformers  
-- Large Language Models (LLMs) & Agentic AI  
-- Research papers, experiments & reproducibility  
+<h3 align="center">🔧 Focus Areas</h3>
+
+<ul>
+  <li><strong>Software Engineering Principles</strong>
+    <ul>
+      <li>Clean Architecture & SOLID principles</li>
+      <li>Design patterns & modular system design</li>
+      <li>Documentation-first & maintainable codebases</li>
+    </ul>
+  </li>
+  <li><strong>Backend & System Design</strong>
+    <ul>
+      <li>RESTful API design & optimization</li>
+      <li>Authentication, authorization & application security</li>
+      <li>Database modeling & performance tuning</li>
+      <li>Scalable system architecture</li>
+    </ul>
+  </li>
+  <li><strong>Cloud & DevOps (Learning & Applying)</strong>
+    <ul>
+      <li>AWS & Azure fundamentals</li>
+      <li>CI/CD concepts & deployment pipelines</li>
+      <li>Environment management & monitoring</li>
+      <li>Containerization basics (Docker)</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
-## 🔬 AI/ML Projects & Experiments  
+<h2 align="center">🤖 Machine Learning & AI (Research-Focused)</h2>
 
-- End-to-end ML pipelines  
-- AI-powered MERN applications  
-- Intelligent assistants & automation tools  
-- Real-world dataset experimentation  
+<p align="center">
+I am actively learning and building in the field of <strong>Machine Learning and Artificial Intelligence</strong>,
+with a strong inclination toward <strong>research-oriented development</strong>.
+</p>
 
-> 📌 *Project details are available in individual repositories.*
+<h3 align="center">🧪 Learning & Research Areas</h3>
+
+<ul>
+  <li>Supervised & Unsupervised Learning</li>
+  <li>Model evaluation, optimization & validation</li>
+  <li>Feature engineering & data preprocessing</li>
+  <li>Neural Networks, CNNs, RNNs & Transformers</li>
+  <li>Large Language Models (LLMs) & Agentic AI</li>
+  <li>Research papers, experimentation & reproducibility</li>
+</ul>
 
 ---
 
-## 💼 Skills & Technologies  
+<h2 align="center">🔬 AI / ML Projects & Experiments</h2>
+
+<ul>
+  <li>End-to-end Machine Learning pipelines</li>
+  <li>AI-powered MERN stack applications</li>
+  <li>Intelligent assistants & automation tools</li>
+  <li>Real-world dataset experimentation</li>
+</ul>
+
+<p align="center">
+📌 <em>Detailed descriptions are available in individual repositories.</em>
+</p>
+
+---
+
+<h2 align="center">💼 Skills & Technologies</h2>
 
 <table align="center">
   <tr>
@@ -104,34 +139,42 @@ I am actively learning and working on **Machine Learning and AI projects**, with
 
 ---
 
-## 📊 GitHub Insights  
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" />
 </p>
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=MRS028&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=MRS028&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me  
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/MRS028"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/mdrifatsheikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:skrifat483@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/MRS028">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/mdrifatsheikh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:skrifat483@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-## 🌟 Vision  
+<h2 align="center">🌟 Vision</h2>
 
-> *“To research, engineer, and deploy intelligent systems that combine scientific rigor with scalable real-world impact.”*
+<p align="center">
+<em>“To research, engineer, and deploy intelligent systems that combine scientific rigor with scalable real-world impact.”</em>
+</p>
 
 ---
 
 <div align="center">
-✨ Thanks for stopping by! Let’s **research, build, and innovate** together 🚀  
+✨ Thanks for stopping by! Let’s <strong>research, build, and innovate</strong> together 🚀
 </div>
