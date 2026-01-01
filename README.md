@@ -156,9 +156,10 @@ I am working on **hands-on AI/ML projects** to strengthen both engineering and r
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/MRS028">
-    <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRS028&layout=compact&theme=radical" />
+    <img width="305px" src="https://nirzak-streak-stats.vercel.app/?user=MRS028&theme=dark&hide_border=false" />
   </a>
 </p>
+
 
 ---
 
