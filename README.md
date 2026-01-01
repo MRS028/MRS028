@@ -4,15 +4,15 @@
   </a>
 </div>
 
-<h1 align="center">👋 Hi, I'm Md. Rifat Sheikh</h1>
+<h1 align="left">👋 Hi, I'm Md. Rifat Sheikh</h1>
 
 <h3 align="center">
-Software Engineer (MERN) · Machine Learning & AI Research Enthusiast · CSE @ SEU
+Software Engineer (MERN) · Machine Learning & AI Research Enthusiast · CSE @SEU
 </h3>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 <p align="center">
 I am a <strong>Computer Science & Engineering undergraduate</strong> with a strong foundation in
@@ -29,14 +29,14 @@ My long-term goal is to bridge <strong>research, engineering, and real-world imp
 
 ---
 
-<h2 align="center">🧠 Core IT & Software Engineering Focus</h2>
+<h2 align="left">🧠 Core IT & Software Engineering Focus</h2>
 
 <p align="center">
 I approach development with an <strong>IT engineering mindset</strong>, emphasizing
 <strong>performance, scalability, security, and maintainability</strong>.
 </p>
 
-<h3 align="center">🔧 Focus Areas</h3>
+<h3 align="left">🔧 Focus Areas</h3>
 
 <ul>
   <li><strong>Software Engineering Principles</strong>
@@ -66,14 +66,14 @@ I approach development with an <strong>IT engineering mindset</strong>, emphasiz
 
 ---
 
-<h2 align="center">🤖 Machine Learning & AI (Research-Focused)</h2>
+<h2 align="left">🤖 Machine Learning & AI (Research-Focused)</h2>
 
 <p align="center">
 I am actively learning and building in the field of <strong>Machine Learning and Artificial Intelligence</strong>,
 with a strong inclination toward <strong>research-oriented development</strong>.
 </p>
 
-<h3 align="center">🧪 Learning & Research Areas</h3>
+<h3 align="left">🧪 Learning & Research Areas</h3>
 
 <ul>
   <li>Supervised & Unsupervised Learning</li>
@@ -86,7 +86,7 @@ with a strong inclination toward <strong>research-oriented development</strong>.
 
 ---
 
-<h2 align="center">🔬 AI / ML Projects & Experiments</h2>
+<h2 align="left">🔬 AI / ML Projects & Experiments</h2>
 
 <ul>
   <li>End-to-end Machine Learning pipelines</li>
@@ -101,7 +101,7 @@ with a strong inclination toward <strong>research-oriented development</strong>.
 
 ---
 
-<h2 align="center">💼 Skills & Technologies</h2>
+<h2 align="left">💼 Skills & Technologies</h2>
 
 <table align="center">
   <tr>
@@ -139,19 +139,19 @@ with a strong inclination toward <strong>research-oriented development</strong>.
 
 ---
 
-<h2 align="center">📊 GitHub Insights</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" />
-</p>
+<h2 align="left">📊 GitHub Insights</h2>
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=MRS028&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" />
+</p>
+
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="left">📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/MRS028">
@@ -167,7 +167,7 @@ with a strong inclination toward <strong>research-oriented development</strong>.
 
 ---
 
-<h2 align="center">🌟 Vision</h2>
+<h2 align="left">🌟 Vision</h2>
 
 <p align="center">
 <em>“To research, engineer, and deploy intelligent systems that combine scientific rigor with scalable real-world impact.”</em>
