@@ -107,6 +107,10 @@ I am actively learning and working on **Machine Learning and AI projects**, with
 ## 📊 GitHub Insights  
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" />
+</p>
+
+<p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=MRS028&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
