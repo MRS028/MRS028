@@ -107,18 +107,8 @@ I am actively learning and working on **Machine Learning and AI projects**, with
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=MRS028&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
-
-<p align="center">
-  <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRS028&theme=radical" />
-</p>
-
-<p align="center">
-  
-  <img width="600px" src="https://nirzak-streak-stats.vercel.app/?user=MRS028&theme=dark&hide_border=false" />
-</p>
-
 ---
 
 ## 📈 Contribution Activity  
