@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">Assalamu Alaikum, I'm Md. Rifat Sheikh</h1>
+<h1 align="left">Assalamu Alaikum, I'm Md. Rifat Sheikh</h1>
 
 <h3 align="center">
 Software Engineer (MERN) · Machine Learning & AI Research Enthusiast · CSE Undergraduate @SEU
