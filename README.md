@@ -157,5 +157,5 @@ with a strong inclination toward <strong>research-focused development and reprod
 ---
 
 <div align="center">
-✨ Thanks for stopping by! Let’s **research, build, and innovate** together 🚀  
+✨ Thank you for visiting — let’s <strong>research, build, and innovate</strong> together 🚀
 </div>
