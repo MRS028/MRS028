@@ -115,8 +115,11 @@ I am actively learning and working on **Machine Learning and AI projects**, with
 </p>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical" />
-  <img width="305px" src="https://nirzak-streak-stats.vercel.app/?user=MRS028&theme=dark&hide_border=false" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical&hide_border=false&cache_seconds=1800" 
+    alt="GitHub Stats"
+  />
+  <img width="405px" src="https://nirzak-streak-stats.vercel.app/?user=MRS028&theme=dark&hide_border=false" />
 </p>
 
 ---
