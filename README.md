@@ -6,11 +6,14 @@
   </a>
 </div>
 
-<h1 align="left">Assalamu Alaikum, I'm Md. Rifat Sheikh</h1>
+> Assalamu Alaikum — welcome to my profile.
 
-<h3 align="left">
-Software Engineer (MERN) </br>Machine Learning & AI Research Enthusiast </br>CSE Undergraduate @SEU
-</h3>
+## Md. Rifat Sheikh
+
+Software Engineer (MERN)  
+Machine Learning & AI Research Enthusiast  
+CSE Undergraduate @ SEU
+
 
 <hr/>
 
