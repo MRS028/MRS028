@@ -8,7 +8,7 @@
 
 <h1 align="left">Assalamu Alaikum, I'm Md. Rifat Sheikh</h1>
 
-<h3 align="center">
+<h3 align="left">
 Software Engineer (MERN) · Machine Learning & AI Research Enthusiast · CSE Undergraduate @SEU
 </h3>
 
