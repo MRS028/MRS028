@@ -115,11 +115,8 @@ I am actively learning and working on **Machine Learning and AI projects**, with
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical&hide_border=false&cache_seconds=1800" 
-    alt="GitHub Stats"
-  />
-  <img width="405px" src="https://nirzak-streak-stats.vercel.app/?user=MRS028&theme=dark&hide_border=false" />
+  
+  <img width="600px" src="https://nirzak-streak-stats.vercel.app/?user=MRS028&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -142,14 +139,6 @@ I am actively learning and working on **Machine Learning and AI projects**, with
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRS028&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRS028&theme=radical&utcOffset=6" />
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MRS028&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
