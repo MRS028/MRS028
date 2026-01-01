@@ -5,24 +5,33 @@
 </div>
 
 # 👋 Hi, I'm **Md. Rifat Sheikh**  
-### MERN Stack Developer | TypeScript | React | Node.js | Express | AI/ML/DL Enthusiast | CSE Undergrad @SEU  
+### Software Engineer (MERN) | TypeScript | React | Node.js | AI/ML Enthusiast | CSE @SEU  
 
 ---
 
-## 🚀 About Me
-I am a dedicated **Computer Science and Engineering (CSE) student** passionate about building impactful digital solutions. With strong foundations in **Full-Stack Development** and a growing interest in **AI/ML/DL**, I thrive on solving problems and exploring innovative technologies.  
+## 🚀 About Me  
 
-### 🔍 Areas of Interest
-- Full-Stack Development (MERN Stack)  
-- Software Engineering & System Design  
-- Cloud Computing (AWS, Azure) & DevOps Tools  
-- Generative & Agentic AI, Machine Learning  
+I’m a **Computer Science & Engineering undergraduate** with a strong passion for building **scalable, user-centric, and high-performance applications**. My core expertise lies in **Full-Stack Development (MERN Stack)**, with an expanding focus on **AI-powered systems, system design, and cloud-native architectures**.
 
-### 🎯 2025 Goals
-- Develop and deploy **production-ready applications**  
-- Contribute to **open-source** & collaborate with global developers  
-- Gain certifications in **Cloud & Full-Stack Development**  
-- Advance knowledge in **AI/ML for scalable solutions**  
+I enjoy turning complex problems into elegant solutions and continuously pushing myself to learn emerging technologies that shape the future of software engineering.
+
+---
+
+### 🔍 Areas of Focus (2026)
+- Full-Stack Web Development (MERN + TypeScript)
+- Scalable Backend Systems & RESTful APIs
+- Cloud Computing & DevOps (AWS, Azure, CI/CD)
+- Generative AI, Agentic AI & Applied Machine Learning
+- Software Engineering Best Practices & System Design
+
+---
+
+### 🎯 Goals for 2026
+- Build **production-grade, scalable applications** used by real users  
+- Contribute consistently to **open-source projects**
+- Secure **internship / junior software engineer roles**
+- Gain hands-on experience with **cloud infrastructure & DevOps**
+- Apply **AI/ML techniques** to real-world software products
 
 ---
 
@@ -37,9 +46,11 @@ I am a dedicated **Computer Science and Engineering (CSE) student** passionate a
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
     </td>
   </tr>
+
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
@@ -50,16 +61,18 @@ I am a dedicated **Computer Science and Engineering (CSE) student** passionate a
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
     </td>
   </tr>
+
   <tr>
     <td><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
       <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=api&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
     </td>
   </tr>
+
   <tr>
     <td><strong>Tools & Workflow</strong></td>
     <td>
@@ -70,6 +83,7 @@ I am a dedicated **Computer Science and Engineering (CSE) student** passionate a
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white">
     </td>
   </tr>
+
   <tr>
     <td><strong>Design</strong></td>
     <td>
@@ -83,25 +97,26 @@ I am a dedicated **Computer Science and Engineering (CSE) student** passionate a
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=MRS028&color=blueviolet" alt="Profile Views">
 </p>
 
 <p align="center">
   <a href="https://github.com/MRS028">
-    <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRS028&theme=radical" alt="GitHub Profile Summary">
+    <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRS028&theme=radical" />
   </a>
   <br>
   <a href="https://github.com/MRS028">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MRS028&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/MRS028">
-    <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRS028&layout=compact&theme=radical" alt="Top Languages">
+    <img width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRS028&layout=compact&theme=radical" />
   </a>
 </p>
 
 ---
 
 ## 📫 Connect With Me  
+
 <p align="center">
   <a href="https://github.com/MRS028"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mdrifatsheikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -112,11 +127,12 @@ I am a dedicated **Computer Science and Engineering (CSE) student** passionate a
 
 ---
 
-## 🌟 Vision
-> “To leverage technology to create meaningful, scalable, and impactful solutions that inspire positive change in society.”  
+## 🌟 Vision  
+
+> *“To engineer scalable, intelligent, and impactful software solutions that empower people and create meaningful change.”*
 
 ---
 
 <div align="center">
-  ✨ Thanks for stopping by! Let's **code, create, and innovate** together 🚀  
+  ✨ Thanks for visiting! Let’s **build, learn, and innovate** together 🚀  
 </div>
