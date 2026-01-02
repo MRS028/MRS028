@@ -12,7 +12,7 @@
 
 Software Engineer (MERN)  
 Machine Learning & AI Research Enthusiast  
-CSE Undergraduate @ SEU
+CSE Undergraduate @SEU
 
 
 <hr/>
