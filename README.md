@@ -112,24 +112,54 @@ with a strong inclination toward <strong>research-focused development and reprod
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      C · C++ · Java · Python · JavaScript · TypeScript · MySQL
+      JavaScript (ES6+) · TypeScript · Python · Go (Basic) · C · C++ · Java · SQL (MySQL)
     </td>
   </tr>
+
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      HTML5 · CSS3 · Tailwind CSS · Material UI · React
+      HTML5 · CSS3 · Tailwind CSS · Shadcn/UI · DaisyUI · Material UI ·
+      React · React Router · Component-Driven UI
     </td>
   </tr>
+
   <tr>
-    <td><strong>Backend</strong></td>
+    <td><strong>Backend (Industry Level)</strong></td>
     <td>
-      Node.js · Express.js · MongoDB · Firebase
+      Node.js · Express.js · MongoDB · Firebase ·
+      JWT Authentication · Role-Based Access Control (RBAC) ·
+      RESTful APIs · Middleware Architecture · Validation & Error Handling
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Machine Learning (Learning)</strong></td>
+    <td>
+      Python · NumPy · Pandas · Matplotlib · Scikit-learn ·
+      Linear Regression · Logistic Regression · Model Evaluation
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Dev Tools & Platforms</strong></td>
+    <td>
+      Git & GitHub · VS Code · Vite · Linux (Kali Linux) ·
+      Environment Variables · API Testing
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Other Skills</strong></td>
+    <td>
+      Async Programming (Python & JS) · Automation Scripts ·
+      API Integration · Secure Coding Practices · Deployment Basics
     </td>
   </tr>
 </table>
 
 <hr/>
+
 
 <h2>📊 GitHub Insights</h2>
 
