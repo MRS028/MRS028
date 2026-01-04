@@ -6,7 +6,7 @@
   </a>
 </div>
 
-> Assalamu Alaikum — welcome to my profile.
+> Assalamu Alaikum — welcome to my github profile 😊.
 
 ## Md. Rifat Sheikh
 
