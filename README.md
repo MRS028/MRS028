@@ -2,7 +2,7 @@
   <a href="https://mdrifatsheikh.info">
     <img src="https://i.ibb.co.com/HfBvKTVd/covergithub.jpg"
          alt="Profile Banner"
-         style="width:100%; height:90%; border-radius:12px;" />
+         style="width:100%; height:85%; border-radius:12px;" />
   </a>
 </div>
 
