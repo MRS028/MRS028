@@ -410,9 +410,9 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
 
 ## 🎓 Education & Professional Development
 
-### Southeast University — B.Sc. in Computer Science & Engineering
+### Southeast University - B.Sc. in Computer Science & Engineering (CSE)
 
-**4th year · Ongoing · Dhaka, Bangladesh**
+**Dhaka, Bangladesh**
 
 My academic work supports the fundamentals behind the software I build: algorithms, operating systems, databases, architecture, and the mathematical foundations of computing. I enjoy connecting those subjects with practical projects rather than keeping them separate.
 
@@ -424,13 +424,6 @@ Completed an intensive, project-based program with practical work across the ML 
 - Classical machine learning, CNNs, RNNs, and Transformer architectures.
 - Experimentation with real-world datasets and model optimization.
 - Model serving and application delivery using API and deployment tools.
-
-### Earlier Education
-
-| Institution | Qualification | Result |
-| :--- | :--- | :--- |
-| **Notre Dame College, Dhaka** | HSC · Science | GPA **5.00 / 5.00** |
-| **Govt. Islampur Nekjahan Pilot High School** | SSC · Science | GPA **5.00 / 5.00** |
 
 ---
 
@@ -545,5 +538,5 @@ If you're hiring, working on a product that needs a full-stack developer, or loo
 I want to keep becoming the kind of engineer who understands both the **theory behind a solution** and the **responsibility of making it work in practice**.
 
 <div align="center">
-  <p>Thanks for visiting my profile. Let's build, learn, and make something meaningful. 🚀</p>
+  <p>Thanks for visiting my profile. Let's build, learn, and make something meaningful.</p>
 </div>
