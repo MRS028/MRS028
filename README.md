@@ -12,13 +12,11 @@
 
 
 <div align="left">
-> Assalamu Alaikum, welcome to my github profile 😊.
+<p>Assalamu Alaikum, welcome to my github profile 😊.</p>
 
 ## Md. Rifat Sheikh
-
-Software Engineer (MERN)  
-Machine Learning & AI Research Enthusiast  
-CSE Undergraduate @SEU
+<p><strong>Full-Stack Developer (MERN) · Software Engineering · Applied AI/ML</strong></p>  
+<p>CSE Undergraduate @SEU</p>
 
   <p>
     I enjoy turning messy problems into software people can actually use—from responsive web apps
