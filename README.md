@@ -1,12 +1,3 @@
-<!--
-  GitHub Profile README — Md. Rifat Sheikh
-  Profile: https://github.com/MRS028
-  Notes:
-  - Replace project links with specific repositories once they are public.
-  - The skills below distinguish hands-on experience from topics being learned.
-  - Keep the 'Open to opportunities' section current.
--->
-
 <div align="center">
   <a href="https://mdrifatsheikh.info" target="_blank">
     <img
@@ -19,23 +10,36 @@
 
 <br />
 
-<div align="center">
-  <h1>Hi, I'm Md. Rifat Sheikh 👋</h1>
-  <p><strong>Software Engineering · Full-Stack Development · Applied AI Research</strong></p>
-  <p>Computer Science & Engineering Undergraduate at Southeast University (SEU) 🇧🇩</p>
+
+<div align="left">
+> Assalamu Alaikum, welcome to my github profile 😊.
+
+## Md. Rifat Sheikh
+
+Software Engineer (MERN)  
+Machine Learning & AI Research Enthusiast  
+CSE Undergraduate @SEU
+
   <p>
-    I build web applications, think deeply about backend systems, and explore how machine learning can solve meaningful problems.
+    I enjoy turning messy problems into software people can actually use—from responsive web apps
+    and reliable APIs to machine learning models delivered through real applications.
   </p>
   <p>
-    <a href="mailto:skrifat483@gmail.com">
-      <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Opportunities-238636?style=flat-square" alt="Open to software engineering opportunities" />
+    <a href="mailto:rifat.seu.cse@gmail.com">
+      <img src="https://img.shields.io/badge/Open%20to-Junior%20Software%20Engineering%20Roles-238636?style=flat-square" alt="Open to junior software engineering roles" />
     </a>
     <a href="https://mdrifatsheikh.info">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/mdrifatsheikh">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+  </p>
+  <p>
+    <a href="#featured-projects">Projects</a> ·
+    <a href="#skills">Tech Stack</a> ·
+    <a href="#career">Hiring &amp; Collaboration</a> ·
+    <a href="mailto:rifat.seu.cse@gmail.com">Email Me</a>
   </p>
 </div>
 
@@ -43,96 +47,162 @@
 
 ## 👨‍💻 About Me
 
-**Assalamu Alaikum, and welcome to my GitHub!**
+**Assalamu Alaikum, and welcome to my corner of GitHub!**
 
-I'm a CSE undergraduate who genuinely enjoys the process of taking an idea from a rough concept to something people can use. My primary focus is **full-stack web development**, especially the **MERN stack**. I enjoy working on clean interfaces, but I'm equally interested in what happens behind them: well-designed APIs, reliable data flows, sensible database structures, and software that is easy to maintain.
+I'm Rifat, a CSE undergraduate at **Southeast University** and a full-stack developer who enjoys building things that solve everyday problems. Most of my work is in the **MERN ecosystem**—React on the frontend, Node.js and Express on the backend, and databases that keep everything working together.
 
-Over time, that interest has grown beyond web development. I have been exploring **machine learning, computer vision, and research-oriented software development**. I like understanding *why* a model behaves the way it does, how to evaluate it carefully, and how to make an experiment reproducible rather than relying on a promising number alone.
+I've built **10+ full-stack web applications**, working through features such as authentication, role-based dashboards, payments, booking workflows, and API integrations. I care about the details that users don't always see: authorization rules, understandable code, predictable error handling, and data that stays consistent.
 
-I'm not interested in presenting every technology I've touched as something I've mastered. I care more about **being useful, learning quickly, writing understandable code, and taking ownership of problems**. That's the kind of engineer I'm working to become.
+I also work on **applied machine learning**. I like the full journey from messy datasets and model comparisons to a usable interface or API. Projects like **MediGuard**, my medicine-safety research prototype, have pushed me to think beyond accuracy alone—to ask what a model's metrics really mean and how to communicate limitations responsibly.
 
-Right now, I'm looking for opportunities to contribute to real-world software projects while continuing to grow as a developer and researcher.
+I don't claim to know everything in a fast-moving field. What I bring is curiosity, practical problem-solving, and the willingness to own a feature from initial design to testing and deployment.
 
-### A quick introduction
+**I'm actively interested in junior software engineering, full-stack/MERN, backend, and AI/ML-focused opportunities.**
+
+### At a glance
 
 | | |
 | :--- | :--- |
-| 🎓 **Education** | B.Sc. in Computer Science & Engineering (Undergraduate), Southeast University |
-| 💻 **Primary focus** | React, TypeScript/JavaScript, Node.js, Express.js, MongoDB |
-| 🔧 **Engineering interests** | Backend systems, API design, databases, performance, application security |
-| 🧠 **Research interests** | Machine learning, computer vision, multimodal AI, reproducible evaluation |
-| 🌱 **Currently expanding** | System design, PyTorch, cloud fundamentals, Docker, CI/CD |
-| 🤝 **Open to** | Junior / entry-level software engineering, full-stack, backend, and relevant AI research internships |
-| 🌍 **Location** | Bangladesh |
-| 📬 **Reach me** | [Email](mailto:skrifat483@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mdrifatsheikh) · [Portfolio](https://mdrifatsheikh.info) |
+| 🎓 **Education** | B.Sc. in Computer Science & Engineering, 4th year (ongoing), Southeast University |
+| 🧑‍💻 **Primary work** | React, Next.js, JavaScript/TypeScript, Node.js, Express.js, MongoDB |
+| 🧱 **Engineering strengths** | REST APIs, authentication, RBAC, database design, application architecture |
+| 🧠 **Applied AI/ML** | Python, scikit-learn, PyTorch, model evaluation, FastAPI deployment |
+| 🔬 **Research interests** | Computer vision, healthcare AI, multimodal learning, reproducible experimentation |
+| 🌍 **Based in** | Dhaka, Bangladesh |
+| 💼 **Seeking** | Junior / entry-level software engineering, MERN/full-stack, backend, and AI/ML roles or internships |
+| ✉️ **Contact** | [rifat.seu.cse@gmail.com](mailto:rifat.seu.cse@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mdrifatsheikh) · [Portfolio](https://mdrifatsheikh.info) |
 
 ---
 
 ## 💼 What I Can Bring to a Team
 
-I try to approach software development as engineering—not just getting a feature to work once, but making sure it remains understandable, secure, and useful as requirements change.
+I like projects where I can understand the problem, make a sensible technical plan, and then do the less glamorous work needed to make the solution reliable. My focus isn't just on getting a demo to run; it's on creating software that someone else can use, understand, and extend.
 
-- **Full-stack implementation:** Build responsive React interfaces and connect them to backend services through REST APIs.
-- **Backend problem-solving:** Structure application logic with middleware, validation, authentication, authorization, and thoughtful error handling.
-- **Data-aware development:** Work with MongoDB and relational databases, understand data models, and think about correctness and query performance.
-- **Integration & automation:** Connect external APIs, handle asynchronous workflows, and automate repetitive tasks using JavaScript or Python.
-- **Debugging & collaboration:** Break large problems into smaller ones, document decisions, use Git, and communicate progress clearly.
-- **Research discipline:** Prepare datasets, evaluate models, compare experiments, and investigate results rather than treating ML as a black box.
+- **Build across the stack:** Turn requirements into responsive React/Next.js interfaces, well-structured Node.js APIs, and persistent data models.
+- **Make access control intentional:** Apply JWT-based authentication, role-specific authorization, route protection, and server-side validation.
+- **Work with real workflows:** Implement bookings, enrollment, payments, dashboards, search, and other features that go beyond a basic CRUD demo.
+- **Design APIs for maintainability:** Keep routes and business logic organized, handle errors predictably, and document important behaviors.
+- **Ship applied ML features:** Preprocess data, train and compare models, choose meaningful metrics, and expose predictions through FastAPI or a web application.
+- **Communicate clearly:** Explain technical decisions, work with feedback, and break difficult problems into manageable steps.
 
-I especially value environments where engineers review each other's work, share context, and build things that genuinely help people.
+My time as a **subject instructor** and **competitive debater** has helped me explain complex ideas in straightforward language—a skill I find just as important in engineering teams as writing code.
 
 ---
 
-## 🚀 Selected Projects & Technical Work
+## 🏅 Professional Highlights
 
-These examples reflect the types of problems I've been working on. Some are evolving projects or research experiments rather than finished commercial products.
+- Developed **10+ full-stack web applications**, including projects involving role-based access, payment integration, booking, and management dashboards.
+- Built API-driven user experiences with **React, Node.js, Express.js, MongoDB**, and relational database tooling such as Prisma.
+- Developed and evaluated applied ML models using **scikit-learn, PyTorch**, and ensemble methods, with hands-on work spanning classical ML and deep learning.
+- Reported **94.0% accuracy and 0.981 ROC-AUC** for the selected Gradient Boosting classifier in the **MediGuard** project dataset evaluation; these are model-evaluation metrics, not clinical-validation results.
+- Took ML work beyond notebooks by integrating models into **FastAPI-based services** and deployment-oriented applications.
+- Completed an **Applied AI Training Program** focused on the practical ML lifecycle, from preprocessing to evaluation and deployment.
+- Bring **3+ years of competitive debating** experience alongside teaching, technical writing, and a collaborative learning mindset.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🚆 Railway Seat Availability Tracker</h3>
-      <p><strong>Full-stack engineering / data processing</strong></p>
-      <p>
-        A web-based seat availability tracker with a React frontend and a
-        Node.js/Express backend, focused on processing railway-related data
-        and presenting useful information through a clean interface.
-      </p>
-      <p><strong>Technical focus:</strong></p>
-      <ul>
-        <li>React UI and API-driven updates</li>
-        <li>Express endpoints and structured data processing</li>
-        <li>Asynchronous workflows and error handling</li>
-        <li>Maintaining readable code across frontend and backend</li>
-      </ul>
-      <p><sub>React · JavaScript · Node.js · Express · REST APIs · JSON</sub></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🫀 AngioCAD — AI Research Project</h3>
-      <p><strong>Medical AI / research experimentation</strong></p>
-      <p>
-        Research-focused experiments involving medical images and clinical
-        information, with attention to preprocessing, comparative evaluation,
-        multimodal learning, and the reliability of experimental results.
-      </p>
-      <p><strong>Technical focus:</strong></p>
-      <ul>
-        <li>Image and clinical-data pipelines</li>
-        <li>PyTorch-based model experimentation</li>
-        <li>Ablation studies and model comparisons</li>
-        <li>Exploring CLIP and vision-language approaches</li>
-      </ul>
-      <p><sub>Python · PyTorch · Computer Vision · CLIP · Model Evaluation</sub></p>
-    </td>
-  </tr>
-</table>
+---
 
-### More work behind the scenes
+<a id="featured-projects"></a>
 
-Beyond larger projects, I regularly practice with smaller engineering problems—API integrations, asynchronous Python scripts, authentication workflows, data preparation, and frontend components. Those experiments help me understand trade-offs before I apply an idea to a larger system.
+## 🚀 Featured Projects
 
-> **Explore the code:** [GitHub repositories](https://github.com/MRS028?tab=repositories) · [Portfolio and project details](https://mdrifatsheikh.info)
+These are the projects that best represent my interests: products with real workflows, backend logic that matters, and applied AI experiments developed into something usable. Some of these are portfolio applications or ongoing research prototypes, not commercial products.
 
-<!-- Add individual public repository URLs above when the project READMEs are ready. -->
+### 🤖 Applied AI / Machine Learning
+
+#### 💊 MediGuard — AI-Powered Medicine Safety & Recommendation System
+
+**FastAPI · Python · scikit-learn · Gradient Boosting · MongoDB · REST APIs**
+
+MediGuard grew from an interesting ML question into a more complete software project: how can a prediction model be part of a helpful, understandable medicine-safety application rather than just return a label?
+
+- Trained and compared multiple classification models, selecting **Gradient Boosting** for the project's adverse-event risk prediction task.
+- Achieved **94.0% accuracy** and **0.981 ROC-AUC** in the reported project evaluation.
+- Built a **FastAPI backend** combining risk prediction, a recommendation flow, and MongoDB-based prediction-history management.
+- Designed outputs to include **risk scores and possible alternatives**, helping users understand the result rather than receiving only a prediction.
+- Focused on turning a trained model into an API-driven, usable application.
+
+> **Responsible-AI note:** MediGuard is a portfolio/research prototype, not a clinically validated medical device. Its predictions and recommendations must not be used as medical advice or independent medication decisions.
+
+#### 🧾 Medical Insurance Cost Predictor
+
+**Python · scikit-learn · Random Forest Regression · Data Preprocessing · Web Deployment**
+
+A deployed regression application built to estimate insurance costs from input features, while practicing the less visible parts of an ML project: cleaning data, preparing features, and checking how well a model generalizes.
+
+- Built a **Random Forest regression** pipeline for insurance-cost estimation.
+- Prepared categorical and numerical inputs through preprocessing and feature engineering.
+- Used **cross-validation** to evaluate model performance and reduce reliance on one training split.
+- Delivered the result through an accessible web application.
+
+#### 🎓 HSC GPA Predictor
+
+**Python · Machine Learning · Feature Engineering · Data Analysis · Web App**
+
+An education-focused ML application that estimates GPA from academic and survey-based factors—a project particularly meaningful to me because of my teaching background.
+
+- Cleaned and prepared survey-style data, including academic and social variables.
+- Trained a prediction model and explored feature importance to better understand influential factors.
+- Built an interactive interface so predictions could be explored without opening a notebook.
+- Treated the output as an **estimate**, not a fixed statement about any student's potential.
+
+#### 🫀 AngioCAD — Medical AI Research & Multimodal Experiments
+
+**Python · PyTorch · Computer Vision · CLIP · Clinical Data · Model Evaluation**
+
+An ongoing research-oriented project investigating how medical images and structured clinical information can be studied together. This work has been valuable for learning how much careful experimentation matters in medical AI.
+
+- Built workflows around image preprocessing, clinical features, and patient-level dataset organization.
+- Compared image-only, clinical-only, and multimodal approaches through controlled experiments.
+- Explored **CLIP and vision-language models**, model fine-tuning, and ablation studies.
+- Examined metrics such as **ROC-AUC, F1, precision, and recall** rather than relying on accuracy alone.
+- Emphasized reproducibility, validation discipline, and transparent discussion of limitations.
+
+*Research in progress; experimental findings should not be interpreted as clinically established performance.*
+
+### 🌐 Full-Stack Web Applications
+
+#### 🏥 Medical Camp Management System
+
+**MERN Stack · React · Node.js · Express.js · MongoDB · Authentication · Payments**
+
+A platform built around the practical work of organizing medical camps: helping organizers manage events and giving participants a clear registration and payment experience.
+
+- Developed organizer and participant experiences with **role-based dashboards**.
+- Implemented authentication and an integrated payment workflow.
+- Built camp management, registration, and record-handling features with structured MongoDB collections.
+- Designed backend endpoints around access control and consistent data flow between the UI and API.
+
+#### 🚘 Car Rental System
+
+**React · Node.js · APIs · Booking Logic · Dashboard**
+
+A vehicle-booking application where the interesting challenges are not limited to UI design—they involve pricing rules, availability, and what happens when booking dates overlap.
+
+- Developed a rental interface and backend workflows for vehicle reservations.
+- Implemented **dynamic pricing logic** based on vehicle type and rental duration.
+- Built dashboards for active bookings, history, and payment-status visibility.
+- Added **date-overlap checks** to avoid conflicting bookings for the same vehicle.
+
+#### 🏫 Coaching Management System
+
+**MERN Stack · React · Express.js · MongoDB · JWT · RBAC**
+
+A role-based management platform inspired by the operational challenges of educational coaching centers, where students, instructors, and administrators need different tools.
+
+- Created workflows for managing **students, teachers, courses, enrollment, and payments**.
+- Developed an administrative interface for schedules and organizational records.
+- Applied **JWT-based route protection** and role-specific permission checks.
+- Organized APIs so each user type works with the data and actions relevant to their responsibilities.
+
+### 🔗 Browse My Work
+
+Explore my public repositories, project details, and demos through these links:
+
+- **GitHub repositories:** [github.com/MRS028](https://github.com/MRS028)
+- **Portfolio / demos:** [mdrifatsheikh.info](https://mdrifatsheikh.info)
+- **Technical work and updates:** [LinkedIn](https://www.linkedin.com/in/mdrifatsheikh)
+
+<!-- Once individual repository and demo URLs are confirmed, add direct project links here. -->
 
 ---
 
@@ -200,14 +270,15 @@ I'm particularly interested in the point where **software engineering meets appl
 
 | Area | Interests and work |
 | :--- | :--- |
-| **Machine Learning Foundations** | Supervised and unsupervised learning, regression, classification, feature engineering |
-| **Data Preparation** | Cleaning, transformation, exploratory analysis, train/validation/test splits |
-| **Model Evaluation** | Accuracy, precision, recall, F1, ROC-AUC, validation, error analysis |
-| **Deep Learning** | Neural networks, CNNs, sequence models, Transformers |
-| **Computer Vision** | Image preprocessing, image classification, learned visual representations |
-| **Multimodal AI** | Combining image and structured information; vision-language model experiments |
-| **LLMs & Agentic AI** | Language-model concepts, retrieval, tools, and application-level orchestration |
-| **Research Practices** | Experimental comparisons, ablation studies, reproducibility, and documentation |
+| **Traditional ML** | Linear / Logistic Regression, Random Forest, SVM, KNN, Decision Trees, XGBoost, LightGBM, CatBoost |
+| **Data & Features** | Cleaning, transformation, EDA, feature engineering, train/validation/test splits |
+| **Model Evaluation** | Cross-validation, hyperparameter tuning, Optuna, precision, recall, F1, ROC-AUC |
+| **Deep Learning** | PyTorch, CNNs, RNNs, LSTMs, GRUs, Transformers |
+| **NLP** | Tokenization, TF-IDF, Word2Vec, embeddings, BERT, T5; exploring LangChain |
+| **Computer Vision** | OpenCV, medical-image preprocessing, visual representation learning |
+| **Multimodal AI** | Image + clinical data, CLIP experiments, vision-language model evaluation |
+| **ML Deployment** | FastAPI, Flask, Streamlit, Docker, Hugging Face Spaces, notebook-to-API workflows |
+| **Research Practices** | Baseline comparison, ablation studies, reproducibility, error analysis, documentation |
 
 ### 🔬 How I Approach an ML Experiment
 
@@ -224,6 +295,8 @@ A model's output matters, but so does the process that produced it. My goal is t
 I see research as a process of asking better questions—not simply collecting impressive-looking results.
 
 ---
+
+<a id="skills"></a>
 
 ## 🛠️ Skills & Technologies
 
@@ -245,13 +318,14 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
 
 <p>
   <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-**UI tools & patterns:** React Router, shadcn/ui, Material UI, DaisyUI, responsive layouts, reusable components, API-driven interfaces.
+**UI tools & patterns:** React Router, Redux / Context API, shadcn/ui, Material UI, DaisyUI, Bootstrap, responsive layouts, reusable components, API-driven interfaces.
 
 ### Backend, Database & API Development
 
@@ -262,9 +336,10 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-**Backend concepts:** RESTful APIs, JWT, RBAC, Express middleware, input validation, error handling, database modeling, asynchronous programming, API integration.
+**Backend concepts:** RESTful APIs, GraphQL, JWT, RBAC, Express middleware, MVC, Prisma ORM, input validation, error handling, database modeling, asynchronous programming, API integration.
 
 ### Data Science & Machine Learning
 
@@ -273,9 +348,11 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-**Currently deepening:** PyTorch, image processing, computer vision, Transformers, multimodal learning, and research evaluation workflows.
+**ML toolkit:** scikit-learn, PyTorch, ensemble methods, XGBoost / LightGBM / CatBoost, OpenCV, NLP fundamentals, cross-validation, Optuna, and model evaluation. **Deepening:** multimodal AI, LLMs, and rigorous research workflows.
 
 ### Development Tools & Platforms
 
@@ -285,9 +362,10 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-**Learning / foundational exposure:** Go, Docker, CI/CD pipelines, AWS, Azure, infrastructure and deployment fundamentals.
+**Workflow & deployment:** Vercel, Netlify, Render, Hugging Face Spaces, Jupyter Notebook, Google Colab, NPM, Jest (unit testing), and Docker. **Foundational / exploring:** Go, CI/CD pipelines, AWS, Azure, monitoring, and infrastructure fundamentals.
 
 <details>
   <summary><strong>📚 A more detailed skills map</strong></summary>
@@ -296,15 +374,59 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
   | Category | Technologies / concepts |
   | :--- | :--- |
   | **Programming** | JavaScript (ES6+), TypeScript, Python, C, C++, Java, SQL; Go (basics) |
-  | **Frontend** | React, React Router, HTML, CSS, Tailwind CSS, Vite, shadcn/ui, Material UI, DaisyUI |
-  | **Backend** | Node.js, Express.js, routes, middleware, APIs, authentication, authorization, validation |
+  | **Frontend** | React, Next.js, React Router, HTML5, CSS3, Tailwind CSS, Bootstrap, Redux / Context API, Vite, shadcn/ui, Material UI, DaisyUI |
+  | **Backend** | Node.js, Express.js, FastAPI, Flask, REST APIs, GraphQL, MVC, Prisma ORM, middleware, JWT, RBAC |
   | **Databases** | MongoDB, MySQL, PostgreSQL, Firebase |
-  | **ML / Data** | NumPy, pandas, Matplotlib, scikit-learn, evaluation workflows; PyTorch (research/learning) |
-  | **Workflow** | Git, GitHub, Postman, VS Code, Linux, environment variables, API testing |
-  | **Architecture** | SOLID, clean architecture concepts, separation of concerns, modular system design |
-  | **Exploring next** | Docker, cloud services, CI/CD, observability, deeper system design, LLM applications |
+  | **Machine Learning** | scikit-learn, Random Forest, Gradient Boosting, XGBoost, LightGBM, CatBoost, SVM, KNN, Optuna |
+  | **Deep Learning & NLP** | PyTorch, CNN, RNN, LSTM, GRU, Transformers, OpenCV, TF-IDF, embeddings, BERT, T5, LangChain (exploring) |
+  | **Data Science** | NumPy, pandas, Matplotlib, data cleaning, feature engineering, EDA, cross-validation, ROC-AUC |
+  | **Delivery & Tools** | Git, GitHub, Postman, VS Code, Linux, Docker, Vercel, Netlify, Render, Hugging Face Spaces, Streamlit |
+  | **Architecture & Quality** | SOLID, modular services, clean code, API security, performance basics, Agile/Scrum, Jest |
+  | **Growing areas** | AWS/Azure fundamentals, CI/CD, observability, advanced system design, agentic AI |
 
 </details>
+
+---
+
+## 🎓 Education & Professional Development
+
+### Southeast University — B.Sc. in Computer Science & Engineering
+
+**4th year · Ongoing · Dhaka, Bangladesh**
+
+My academic work supports the fundamentals behind the software I build: algorithms, operating systems, databases, architecture, and the mathematical foundations of computing. I enjoy connecting those subjects with practical projects rather than keeping them separate.
+
+### Applied AI Training Program
+
+Completed an intensive, project-based program with practical work across the ML lifecycle:
+
+- Data preprocessing, exploratory analysis, feature selection, and evaluation.
+- Classical machine learning, CNNs, RNNs, and Transformer architectures.
+- Experimentation with real-world datasets and model optimization.
+- Model serving and application delivery using API and deployment tools.
+
+### Earlier Education
+
+| Institution | Qualification | Result |
+| :--- | :--- | :--- |
+| **Notre Dame College, Dhaka** | HSC · Science | GPA **5.00 / 5.00** |
+| **Govt. Islampur Nekjahan Pilot High School** | SSC · Science | GPA **5.00 / 5.00** |
+
+---
+
+## 🧑‍🏫 Teaching, Communication & Community
+
+Alongside development, I've worked as a **subject instructor at a coaching center**, teaching SSC- and HSC-level **Science, Mathematics, Physics, and ICT**. Teaching has made me more patient with complex problems and more deliberate about explaining why something works—not just how.
+
+Outside the classroom and code editor:
+
+- **Competitive debating:** 3+ years of experience building arguments, listening critically, and speaking with clarity.
+- **Technical writing:** Share what I learn and try to make challenging technical concepts approachable.
+- **Open source:** Learn from public codebases and contribute through GitHub.
+- **Academic interests:** Participated in Bangladesh Physics, Chemistry, and Mathematics Olympiad activities.
+- **Languages:** Bengali (native) and English (professional working proficiency).
+
+I value thoughtful collaboration, constructive reviews, and the ability to disagree respectfully about technical decisions.
 
 ---
 
@@ -349,21 +471,29 @@ My goal is to build a strong foundation in both areas rather than chase every ne
 
 ---
 
-## 🎯 Career Interests & Opportunities
+<a id="career"></a>
 
-I'm interested in **junior / entry-level software engineering**, **MERN / full-stack development**, and **backend development** opportunities. I'm also open to relevant **AI/ML research internships** and collaborations where I can contribute while learning from experienced people.
+## 🎯 Career Opportunities
 
-What I'm looking for is a team that values clear thinking, constructive feedback, good engineering practices, and meaningful products. I don't expect to know every answer on day one—but I do expect myself to investigate carefully, ask the right questions, and follow through.
+**I'm actively seeking a role where I can contribute real engineering work and keep growing with a strong team.** My main interests are:
 
-If my work aligns with what your team is building, I'd be glad to have a conversation.
+- **Junior / entry-level Software Engineer:** product features, maintainable code, and collaborative development.
+- **MERN / Full-Stack Developer:** React/Next.js interfaces paired with reliable APIs and data-driven systems.
+- **Backend Developer:** Node.js/Express, APIs, authentication, databases, and business logic.
+- **Applied AI / ML Engineer (junior) or Research Internship:** practical model development, evaluation, and integration into applications.
 
-**📩 Best way to reach me:** [skrifat483@gmail.com](mailto:skrifat483@gmail.com)
+I'm especially interested in teams building useful products, valuing code reviews, and making pragmatic engineering decisions. I'm comfortable learning unfamiliar tools when the problem calls for them; what matters to me is doing the work carefully and communicating clearly.
+
+**📧 Hiring & collaboration:** [rifat.seu.cse@gmail.com](mailto:rifat.seu.cse@gmail.com)  
+**📍 Based in:** Dhaka, Bangladesh  
+**🌐 Portfolio:** [mdrifatsheikh.info](https://mdrifatsheikh.info)  
+**💼 LinkedIn:** [linkedin.com/in/mdrifatsheikh](https://www.linkedin.com/in/mdrifatsheikh)
 
 ---
 
 ## 📫 Let's Connect
 
-Whether it's about a software engineering role, an interesting project, a research idea, or simply exchanging what we're learning, feel free to reach out.
+If you're hiring, working on a product that needs a full-stack developer, or looking for someone who enjoys applied AI, I'd be happy to connect. For job-related conversations, my preferred address is **[rifat.seu.cse@gmail.com](mailto:rifat.seu.cse@gmail.com)**.
 
 <div align="center">
   <a href="https://github.com/MRS028">
@@ -372,7 +502,7 @@ Whether it's about a software engineering role, an interesting project, a resear
   <a href="https://www.linkedin.com/in/mdrifatsheikh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:skrifat483@gmail.com">
+  <a href="mailto:rifat.seu.cse@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://mdrifatsheikh.info">
