@@ -1,51 +1,54 @@
 <div align="center">
-  <a href="https://mdrifatsheikh.info" target="_blank">
-    <img
-      src="https://i.ibb.co.com/HfBvKTVd/covergithub.jpg"
-      alt="Md. Rifat Sheikh | Software Engineering and AI Research"
-      width="100%"
-    />
+  <a href="https://mdrifatsheikh.info">
+    <img src="https://i.ibb.co.com/HfBvKTVd/covergithub.jpg" alt="Md. Rifat Sheikh | Software Engineering & Applied AI" width="100%" />
   </a>
 </div>
 
 <br />
 
-
+<!-- Introduction is intentionally left-aligned for a clean recruiter-facing layout. -->
 <div align="left">
-<p>Assalamu Alaikum, welcome to my github profile 😊.</p>
+  <p>Assalamu Alaikum! Welcome to my GitHub profile.</p>
 
-## Md. Rifat Sheikh
-<p><strong>Full-Stack Developer (MERN) · Software Engineering · Applied AI/ML</strong></p>  
-<p>CSE Undergraduate @SEU</p>
+  <h1>Md. Rifat Sheikh</h1>
+  <p><strong>Full-Stack Software Developer (MERN) | Applied AI/ML | Software Engineering</strong></p>
+  <p>🎓 B.Sc. in Computer Science &amp; Engineering (CSE)</p>
+  <p>📍 Dhaka, Bangladesh</p>
 
   <p>
-    I enjoy turning messy problems into software people can actually use—from responsive web apps
-    and reliable APIs to machine learning models delivered through real applications.
+    I build full-stack applications that solve practical problems, and I enjoy taking machine learning
+    ideas beyond notebooks into real, usable software. My work spans React interfaces,
+    backend APIs, data-driven features, and research-oriented ML experiments.
   </p>
+
+  <p><strong>Open to opportunities:</strong> Junior Software Engineer · Full-Stack/MERN Developer · Backend Developer · Applied AI/ML Intern</p>
+
   <p>
     <a href="mailto:rifat.seu.cse@gmail.com">
-      <img src="https://img.shields.io/badge/Open%20to-Junior%20Software%20Engineering%20Roles-238636?style=flat-square" alt="Open to junior software engineering roles" />
+      <img src="https://img.shields.io/badge/Open_to_Work-Junior_Engineering_Roles-238636?style=flat-square" alt="Open to work" />
     </a>
     <a href="https://mdrifatsheikh.info">
-      <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-View_My_Work-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/mdrifatsheikh">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:rifat.seu.cse@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
   <p>
-    <a href="#featured-projects">Projects</a> ·
+    <a href="#featured-projects">Featured Projects</a> ·
     <a href="#skills">Tech Stack</a> ·
     <a href="#career">Hiring &amp; Collaboration</a> ·
-    <a href="mailto:rifat.seu.cse@gmail.com">Email Me</a>
+    <a href="https://github.com/MRS028?tab=repositories">All Repositories</a>
   </p>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-
-**Assalamu Alaikum, and welcome to my corner of GitHub!**
 
 I'm Rifat, a CSE undergraduate at **Southeast University** and a full-stack developer who enjoys building things that solve everyday problems. Most of my work is in the **MERN ecosystem**—React on the frontend, Node.js and Express on the backend, and databases that keep everything working together.
 
@@ -111,6 +114,8 @@ These are the projects that best represent my interests: products with real work
 
 **FastAPI · Python · scikit-learn · Gradient Boosting · MongoDB · REST APIs**
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MRS028/MediGaurd) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://mediguard-aii.netlify.app)
+
 MediGuard grew from an interesting ML question into a more complete software project: how can a prediction model be part of a helpful, understandable medicine-safety application rather than just return a label?
 
 - Trained and compared multiple classification models, selecting **Gradient Boosting** for the project's adverse-event risk prediction task.
@@ -125,6 +130,8 @@ MediGuard grew from an interesting ML question into a more complete software pro
 
 **Python · scikit-learn · Random Forest Regression · Data Preprocessing · Web Deployment**
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MRS028/Medical-Insurance-Cost-Prediction) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://huggingface.co/spaces/mdrifatsheikh/Insurance-Prediction)
+
 A deployed regression application built to estimate insurance costs from input features, while practicing the less visible parts of an ML project: cleaning data, preparing features, and checking how well a model generalizes.
 
 - Built a **Random Forest regression** pipeline for insurance-cost estimation.
@@ -135,6 +142,8 @@ A deployed regression application built to estimate insurance costs from input f
 #### 🎓 HSC GPA Predictor
 
 **Python · Machine Learning · Feature Engineering · Data Analysis · Web App**
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MRS028/Student-Performance-Prediciton) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://huggingface.co/spaces/rafayet028/HSC_GPA_Predictor)
 
 An education-focused ML application that estimates GPA from academic and survey-based factors—a project particularly meaningful to me because of my teaching background.
 
@@ -163,6 +172,8 @@ An ongoing research-oriented project investigating how medical images and struct
 
 **MERN Stack · React · Node.js · Express.js · MongoDB · Authentication · Payments**
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MRS028/Medical-Camp-Management-System-Client-Side) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://medical-camp-management-b10a12.web.app/)
+
 A platform built around the practical work of organizing medical camps: helping organizers manage events and giving participants a clear registration and payment experience.
 
 - Developed organizer and participant experiences with **role-based dashboards**.
@@ -173,6 +184,8 @@ A platform built around the practical work of organizing medical camps: helping 
 #### 🚘 Car Rental System
 
 **React · Node.js · APIs · Booking Logic · Dashboard**
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MRS028/Car-Rental-System-Client) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://car-rental-system-b10a11.web.app/)
 
 A vehicle-booking application where the interesting challenges are not limited to UI design—they involve pricing rules, availability, and what happens when booking dates overlap.
 
@@ -185,6 +198,8 @@ A vehicle-booking application where the interesting challenges are not limited t
 
 **MERN Stack · React · Express.js · MongoDB · JWT · RBAC**
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MRS028/Coaching-Management-System-Client-Side) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://oddhayon-coaching-center.netlify.app/)
+
 A role-based management platform inspired by the operational challenges of educational coaching centers, where students, instructors, and administrators need different tools.
 
 - Created workflows for managing **students, teachers, courses, enrollment, and payments**.
@@ -192,15 +207,22 @@ A role-based management platform inspired by the operational challenges of educa
 - Applied **JWT-based route protection** and role-specific permission checks.
 - Organized APIs so each user type works with the data and actions relevant to their responsibilities.
 
-### 🔗 Browse My Work
+### 🔗 Project Links at a Glance
 
-Explore my public repositories, project details, and demos through these links:
+Explore the implementation behind each project or try the application yourself. I keep both links here so you can jump straight to what interests you.
 
-- **GitHub repositories:** [github.com/MRS028](https://github.com/MRS028)
-- **Portfolio / demos:** [mdrifatsheikh.info](https://mdrifatsheikh.info)
-- **Technical work and updates:** [LinkedIn](https://www.linkedin.com/in/mdrifatsheikh)
+| Project | Source Code | Live Demo |
+| :--- | :---: | :---: |
+| **MediGuard** | [GitHub](https://github.com/MRS028/MediGaurd) | [Visit Demo](https://mediguard-aii.netlify.app) |
+| **Medical Insurance Cost Predictor** | [GitHub](https://github.com/MRS028/Medical-Insurance-Cost-Prediction) | [Visit Demo](https://huggingface.co/spaces/mdrifatsheikh/Insurance-Prediction) |
+| **HSC GPA Predictor** | [GitHub](https://github.com/MRS028/Student-Performance-Prediciton) | [Visit Demo](https://huggingface.co/spaces/rafayet028/HSC_GPA_Predictor) |
+| **Medical Camp Management System** | [GitHub](https://github.com/MRS028/Medical-Camp-Management-System-Client-Side) | [Visit Demo](https://medical-camp-management-b10a12.web.app/) |
+| **Car Rental System** | [GitHub](https://github.com/MRS028/Car-Rental-System-Client) | [Visit Demo](https://car-rental-system-b10a11.web.app/) |
+| **Coaching Management System** | [GitHub](https://github.com/MRS028/Coaching-Management-System-Client-Side) | [Visit Demo](https://oddhayon-coaching-center.netlify.app/) |
 
-<!-- Once individual repository and demo URLs are confirmed, add direct project links here. -->
+**More work:** [All GitHub Repositories](https://github.com/MRS028?tab=repositories) · [Portfolio](https://mdrifatsheikh.info) · [LinkedIn](https://www.linkedin.com/in/mdrifatsheikh)
+
+**Research note:** AngioCAD is still in progress; I’ll add a direct repository link when it’s ready to share publicly.
 
 ---
 
