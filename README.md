@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mdrifatsheikh.info">
-    <img src="https://i.ibb.co.com/yn2F2bbC/Screenshot-2025-08-13-083548.png"
+    <img src="https://i.ibb.co.com/HfBvKTVd/covergithub.jpg"
          alt="Profile Banner"
          style="width:100%; border-radius:12px;" />
   </a>
