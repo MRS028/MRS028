@@ -388,7 +388,7 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
 **Workflow & deployment:** Vercel, Netlify, Render, Hugging Face Spaces, Jupyter Notebook, Google Colab, NPM, Jest (unit testing), and Docker. **Foundational / exploring:** Go, CI/CD pipelines, AWS, Azure, monitoring, and infrastructure fundamentals.
 
 <details>
-  <summary><strong>📚 A more detailed skills map</strong></summary>
+  <strong>📚 A more detailed skills map</strong>
   <br />
 
   | Category | Technologies / concepts |
