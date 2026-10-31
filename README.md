@@ -8,7 +8,7 @@
 
 <!-- Introduction is intentionally left-aligned for a clean recruiter-facing layout. -->
 <div align="left">
-  <p>Assalamu Alaikum! Welcome to my GitHub profile.</p>
+  <strong>Assalamu Alaikum! Welcome to my GitHub profile.</strong>
 
   <h1>Md. Rifat Sheikh</h1>
   <p><strong>Full-Stack Software Developer (MERN) | Applied AI/ML | Software Engineering</strong></p>
@@ -387,7 +387,6 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
 
 **Workflow & deployment:** Vercel, Netlify, Render, Hugging Face Spaces, Jupyter Notebook, Google Colab, NPM, Jest (unit testing), and Docker. **Foundational / exploring:** Go, CI/CD pipelines, AWS, Azure, monitoring, and infrastructure fundamentals.
 
-<details>
   <strong>📚 A more detailed skills map</strong>
   <br />
 
@@ -404,7 +403,6 @@ I prefer to show **what I use** and **what I'm still learning** separately. Skil
   | **Architecture & Quality** | SOLID, modular services, clean code, API security, performance basics, Agile/Scrum, Jest |
   | **Growing areas** | AWS/Azure fundamentals, CI/CD, observability, advanced system design, agentic AI |
 
-</details>
 
 ---
 
